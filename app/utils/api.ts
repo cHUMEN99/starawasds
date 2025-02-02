@@ -32,17 +32,7 @@ export async function getDerails(url: string) {
 }
 
 
-// export async function getSpecical(url: string) {
-//   try {
-//       const response = await axios.get(url);
-      
-//       return response.data;
-//   } catch (error) {
-//      throw new Error(
-//       "Error "+error
-//      )
-//   }
-// }
+
 
 
 

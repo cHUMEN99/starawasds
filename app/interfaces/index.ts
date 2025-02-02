@@ -16,7 +16,7 @@ export interface IPerson{
 
 export interface StarwarsPerson {
     name: string;
-    height: string;
+    height: number;
     mass: string;
     birth_year: string;
     created:string
